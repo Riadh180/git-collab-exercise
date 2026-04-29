@@ -2,3 +2,5 @@
 This is a dummy Description for the README File.
 
 New Changes
+
+Attempt to use commit message body
